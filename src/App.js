@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React ｜ 添加一个hello-world
         </a>
       </header>
     </div>
