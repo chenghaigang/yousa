@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React ｜ 添加一个hello-world | 修改gitCommit用户名
+          Learn React ｜ 添加一个hello-world | 修改gitCommit用户名 | 重新生成ssh-key
         </a>
       </header>
     </div>
